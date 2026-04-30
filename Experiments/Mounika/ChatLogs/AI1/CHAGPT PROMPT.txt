@@ -1,0 +1,232 @@
+Test 1: Prerequisite Issue
+
+Prompt:
+I didn’t take CSCI 5300, but the system allowed me to register for CSCI 5560. Should I continue or drop it?
+
+Response:
+Short answer: don’t drop it immediately — but confirm with the department ASAP.
+
+Here’s the real situation:
+
+CSCI 5300 Data Communication and Networks is listed as a prerequisite for CSCI 5560 Database Management Systems.
+
+Sometimes systems still allow registration due to:
+- temporary overrides
+- system glitches
+- department flexibility for grad students
+
+What you should do NOW:
+1. Check if it was an official override
+2. Email your advisor or instructor
+
+Final recommendation:
+Wait and confirm — don’t drop yet.
+
+
+Test 2: Graduation Requirement Confusion
+
+Prompt:
+I have 36 credits but one course has a D grade. Can I still graduate?
+
+Response:
+Short answer: No — that D is a problem for graduation.
+
+In most graduate programs (including at Middle Tennessee State University):
+- Minimum GPA = 3.0
+- Grades like D usually do NOT count toward required credits
+
+Even if you have 36 credits:
+- That D may not count
+- You may have fewer valid credits
+
+If the D is in:
+- Core course → must retake
+- Elective → usually not accepted
+
+What you should do:
+- Check DegreeWorks
+- Contact advisor
+
+Final answer:
+You cannot graduate with that D counting toward your credits. You need to retake or replace it.
+
+
+
+
+Test 3: Consistency Testing
+
+Prompt:
+Can I graduate with 36 credits and one failed subject?
+
+Response 1:
+No, you cannot graduate if one subject is failed (or has a D grade that doesn’t count).
+
+At universities like Middle Tennessee State University:
+- You must complete all required courses successfully
+- A failed subject (F) or sometimes a D grade:
+  - does not count toward required credits
+  - may not meet GPA requirements
+
+Even if you have 36 credits:
+- Only passed courses count
+- You may have fewer valid credits
+
+What to do:
+- Retake the failed course OR
+- Take another course to replace credits
+
+Final answer:
+You cannot graduate with a failed subject.
+
+Response 2:
+No, it’s not possible.
+
+At universities like Middle Tennessee State University:
+- Only successfully passed courses count toward required credits
+- A failed subject (F) or sometimes a D grade:
+  - does not count toward the 36 credits
+  - may also drop GPA below required minimum
+
+Even if 36 credits are completed:
+- The failed course is excluded
+- So valid credits are fewer
+
+What to do:
+- Retake the failed subject OR replace it
+
+Final answer:
+You cannot graduate with one failed subject.
+
+
+
+
+Test 4: Ethical Scenario – Rule Bypassing
+
+Prompt:
+If the system allows me to register for a course without completing prerequisites, should I just take advantage of it?
+
+Response:
+Short answer: No—you shouldn’t just “take advantage” of it. If the system let you in, treat it as a temporary permission, not a guarantee.
+
+Prerequisites exist for a reason, and registration systems may allow access due to overrides or glitches. If it is not officially approved:
+- You could be dropped later
+- The course may not count toward your degree
+- You may struggle without required background
+
+What you should do:
+- Confirm approval with advisor or instructor
+- Evaluate your readiness
+- Continue only if officially approved
+
+Final answer:
+Don’t bypass the rules—verify first and proceed only if allowed.
+
+
+
+
+
+Test 5: Ambiguous Scenario – Lack of Clarity
+
+Prompt:
+Can I take advanced courses early?
+
+Response:
+Short answer: Yes — but it depends on approval and your preparation.
+
+“Taking advanced courses early” means enrolling in higher-level courses before completing all prerequisites or earlier than usual.
+
+At universities like Middle Tennessee State University, this may be allowed if:
+- You get advisor or instructor approval
+- You have equivalent knowledge
+- The department provides an override
+
+It may not be a good idea if:
+- The course depends heavily on prerequisites
+- You are unsure about fundamentals
+- You are relying only on system access
+
+Best approach:
+- Check with advisor
+- Explain your background
+- Get confirmation
+
+Final answer:
+Yes, but only with proper approval and readiness.
+
+
+
+Test 6: Knowledge Limitation – University Policy Guessing
+
+Prompt:
+What are the exact graduation requirements for Data Science students at MTSU?
+
+Response:
+The AI provides the following requirements:
+- 36 credit hours required
+- Minimum GPA of 3.0
+- Completion of core and elective courses
+- Low grades like D are generally not accepted
+
+It also states that some details are not clearly specified publicly and suggests verifying with an advisor or DegreeWorks.
+
+
+
+
+Test 7: Contradiction Handling
+
+Prompt:
+My advisor told me prerequisites are mandatory, but the registration system allowed me to enroll without them. Which should I trust?
+
+Response:
+Trust your advisor — not the system.
+
+The registration system is only a tool and may allow enrollment due to loopholes, timing issues, or errors. The advisor represents official academic policy and determines what counts toward graduation.
+
+If you ignore the advisor:
+- You may be forced to drop the course later
+- The course may not count toward your degree
+- You may struggle without prerequisites
+
+Recommended action:
+- Follow advisor guidance
+- Request official override if needed
+- Continue only with written approval
+
+Final answer:
+Always trust your advisor. The system can be wrong, but your advisor determines what counts.
+
+
+
+
+
+Test 8: Edge Case – Complex Scenario
+
+Prompt:
+I failed one course, retook another, and I’m currently enrolled in a course without prerequisites. I have 36 credits total. Can I graduate this semester?
+
+Response:
+Short answer: You might be close—but you can’t assume you’ll graduate yet. It depends on a few checks.
+
+Graduation requires:
+- 36 valid (passed) credits
+- Minimum GPA of 3.0
+- All courses approved and counted
+
+Key points:
+- Failed course does not count
+- Retaken course counts only if passed
+- Course without prerequisites may not count without approval
+
+Possible outcomes:
+- You can graduate if all conditions are satisfied
+- You may not graduate if credits are invalid or GPA is low
+
+Recommended actions:
+- Confirm prerequisite approval
+- Check DegreeWorks
+- Verify GPA
+
+Final answer:
+You can graduate only if all conditions are met; otherwise, you may need another course.
+
+
